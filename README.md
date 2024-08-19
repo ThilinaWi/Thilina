@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thilina Wickramarathna</h1>
 <h3 align="center">A passionate developer from Sri lanka</h3>
 
-- 🔭 I’m currently working on **ITP Project**
+- 🔭 I’m currently working on ** Project**
 
 - 🌱 I’m currently learning **Mern**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **it22571984@my.sliit.lk**
+- 📫 How to reach me **thilinawicki962@gmail.com**
 
 - ⚡ Fun fact **Wicki**
 
