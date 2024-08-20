@@ -49,9 +49,7 @@ Languages and Tools:</h2>
 <a href="https://github.com/ThilinaWi/github-readme-stats">
 
 <img  align="left" width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaWi&layout=compact&theme=tokyonight" /></a>
-
-<img align="center" width="34%" src="https://github-readme-stats.vercel.app/api?username=ThilinaWi&show_icons=true&theme=tokyonight" alt="ThilinaWi" />
-
+<img align="center" width="34%" src="https://github-readme-stats.vercel.app/api?username=ThilinaWi&show_icons=true&theme=tokyonight" alt="ThilinaWi"/>
 <img  align="right" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThilinaWi&theme=tokyonight" alt="ThilinaWi" />
 
 ------
