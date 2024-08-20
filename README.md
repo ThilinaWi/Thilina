@@ -1,5 +1,5 @@
 <h1 align="center">Hy 👋, I'm Thilina Wickramarathna</h1>
-<h3 align="center">Passionate IT Student</h3>
+<h3 align="center">Passionate IT Student|Full stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThilinaWi&label=Profile%20views&color=0e75b6&style=flat" alt="ThilinaWi" /> </p>
 
@@ -14,6 +14,7 @@
 - ⚡ Fun fact **Call me as Wicki**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <p align="left">
 </p>
 
