@@ -40,8 +40,9 @@
 </p>
 
 ------
-
-<h2> Github Stats </h2> 
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+ Github Stats </h2> 
  <p>
 <a href="https://github.com/ThilinaWi/github-readme-stats">
 
